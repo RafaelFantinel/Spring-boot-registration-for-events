@@ -1,0 +1,55 @@
+.detalhesEvento{
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-bottom: 60px;
+	margin-top: 20px;
+}
+.container{
+	padding-bottom: 25px;
+	padding-top:10px;
+}
+
+.formConvidado{
+	
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 90px;
+	padding-bottom: 10px;
+	margin-bottom: 60px;
+}
+
+.tabelaConvidado{
+	width: 50%;
+	padding-top: 50px;
+}
+
+.formEvento{
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 55px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 60px;
+	margin-top: 20px;
+}
+
+.menu{
+	background-color: #3399ff;
+}
+.containerConvidado{
+	padding-bottom:65px;
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 20px;
+	padding-left: 20px;
+	margin-bottom: 60px;
+	width:70%;
+	margin-left: 200px;
+}
+.validacao{
+	color: green;
+	margin-left: 15%;
+	margin-bottom: 2%;
+}
+.highlight{
+	margin-left:15%;
+	width: 85%;
+}
